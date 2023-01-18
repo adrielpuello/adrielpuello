@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adrielpuello
 - 👀 I’m interested in Sports and Gaming
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on my Flatiron School Software Engineering Bootcamp
+- 🌱 I just finished my Software Engineering Bootcamp with Flatiron School!
+- 💞️ I’m looking to work as a Software Engineer
 - 📫 How to reach me: Instagram-@aj.puello Email-adrielpuello@gmail.com 
 
 <!---
